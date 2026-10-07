@@ -1,0 +1,4 @@
+ Nombre: Edilson    
+   Apellido: Lazarte Garcia
+   Grupo: RL Unifranz
+   Rol o responsabilidad principal: Analisis y gestion de proyectos
