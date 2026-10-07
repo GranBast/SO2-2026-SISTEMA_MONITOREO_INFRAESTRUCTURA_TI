@@ -1,4 +1,0 @@
-Nombre: Josias Gabriel
-Apellido: Arze Giron
-Grupo: RL Unifranz
-Rol o responsabilidad principal: Lógica y monitoreo
